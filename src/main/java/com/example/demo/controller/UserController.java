@@ -40,8 +40,6 @@ public class UserController {
 		
 	}
 	
-	@GetMapping("/users")
-	public 
 	
 
 	
